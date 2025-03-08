@@ -12,9 +12,9 @@ files:
   - name: test/TrafficLightTest.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/288/stages/1501/implement#comment
+feedback_link: https://hyperskill.org/learn/step/22723#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: "Mon, 24 Feb 2025 18:28:53 UTC"
-record: -1
+record: 2
